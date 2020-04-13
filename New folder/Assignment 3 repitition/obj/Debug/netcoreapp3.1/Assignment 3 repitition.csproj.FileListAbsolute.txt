@@ -1,0 +1,11 @@
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\repos\Assignment 3 repitition\bin\Debug\netcoreapp3.1\Assignment 3 repitition.exe
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\repos\Assignment 3 repitition\bin\Debug\netcoreapp3.1\Assignment 3 repitition.deps.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\repos\Assignment 3 repitition\bin\Debug\netcoreapp3.1\Assignment 3 repitition.runtimeconfig.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\repos\Assignment 3 repitition\bin\Debug\netcoreapp3.1\Assignment 3 repitition.runtimeconfig.dev.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\repos\Assignment 3 repitition\bin\Debug\netcoreapp3.1\Assignment 3 repitition.dll
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\repos\Assignment 3 repitition\bin\Debug\netcoreapp3.1\Assignment 3 repitition.pdb
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\repos\Assignment 3 repitition\obj\Debug\netcoreapp3.1\Assignment 3 repitition.csprojAssemblyReference.cache
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\repos\Assignment 3 repitition\obj\Debug\netcoreapp3.1\Assignment 3 repitition.AssemblyInfoInputs.cache
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\repos\Assignment 3 repitition\obj\Debug\netcoreapp3.1\Assignment 3 repitition.AssemblyInfo.cs
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\repos\Assignment 3 repitition\obj\Debug\netcoreapp3.1\Assignment 3 repitition.dll
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\repos\Assignment 3 repitition\obj\Debug\netcoreapp3.1\Assignment 3 repitition.pdb
