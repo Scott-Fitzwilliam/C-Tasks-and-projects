@@ -1,0 +1,11 @@
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Week 7 Arrays and Lists\arrays\bin\Debug\netcoreapp3.1\arrays.exe
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Week 7 Arrays and Lists\arrays\bin\Debug\netcoreapp3.1\arrays.deps.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Week 7 Arrays and Lists\arrays\bin\Debug\netcoreapp3.1\arrays.runtimeconfig.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Week 7 Arrays and Lists\arrays\bin\Debug\netcoreapp3.1\arrays.runtimeconfig.dev.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Week 7 Arrays and Lists\arrays\bin\Debug\netcoreapp3.1\arrays.dll
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Week 7 Arrays and Lists\arrays\bin\Debug\netcoreapp3.1\arrays.pdb
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Week 7 Arrays and Lists\arrays\obj\Debug\netcoreapp3.1\arrays.csprojAssemblyReference.cache
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Week 7 Arrays and Lists\arrays\obj\Debug\netcoreapp3.1\arrays.AssemblyInfoInputs.cache
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Week 7 Arrays and Lists\arrays\obj\Debug\netcoreapp3.1\arrays.AssemblyInfo.cs
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Week 7 Arrays and Lists\arrays\obj\Debug\netcoreapp3.1\arrays.dll
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Week 7 Arrays and Lists\arrays\obj\Debug\netcoreapp3.1\arrays.pdb
