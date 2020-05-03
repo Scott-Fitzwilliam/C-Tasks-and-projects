@@ -1,0 +1,88 @@
+A method or function. is just the 
+a static void NAME ( type: input)
+the type is like string or int, input is input
+to call it.
+
+you just use its name with ()brackets
+
+i.e PrintHello("Scott")
+
+static void PrintHello(string name) {
+console.WriteLine( "hello" + name);
+
+The "+ name" will add "Scott" to the writeline since the input in the main function.
+Will be very easy to create user input.
+
+Multiple inputs for the function can be accepted. In these cases, the same format for creating the function and calling the function applies. 
+
+
+i.e PrintHello("Scott","Fitzwillam")
+
+static void PrintHello(string name, string name2) {
+
+}
+
+The variables can't have the same name, they need to be unique, thus name2.
+The variables given, must be the same as the ones needed by the function.
+
+if static void PrintHello(string name, string name2)  then PrintHello() must have two strings in it("Scott","Fitzwillam"). It cannot have 1 or 3 or some other amount it will fail if you try it.
+
+you can use return and then a type to return a value, in this case, return int.
+
+
+Functions don't have to be below(not to be confused with inside) the main function. It doesn't matter.
+
+When a function is called at line 11 (int a = calculate(77, 33);) it skips past anything directly after it and goes to the function (static int calculate) first, performs the function, gives the return value, in this case 'ans', then goes back the main function and continues like normal.
+
+UI should be in the main function. When you call the Printhello function with static void. It is simply performing the writeline inside the function. Genrally this should be avoided. Content should lie in the main function, and calculations or procedure done in the external function/method.
+
+}
+
+		By changing 
+static void Main(string[] args){
+PrintHello("Scott", "Fitzwilliam");
+}
+
+static void PrintHello(string Fname, string Lname){
+            Console.WriteLine("Hello " + Fname + " " + Lname);
+}
+			to
+			
+static void Main(string[] args){
+Console.WriteLine(PrintHello("Scott", "Fitzwilliam"));
+}
+
+static string PrintHello(string Fname, string Lname){
+	string sentence = "Hello " + Fname + " " + Lname;
+	return sentence;
+}
+
+This can be seen in the C# code.
+The writeline has been moved to the main function.
+
+varibale scoping:
+In normal siturations you cannot define the say variable twice
+i.e. you will get an error saying it is not locally scope if you write:
+int a = 5;
+int a = 10;
+
+A variable only exists scoped in the brackets it is a part. A variable can only exist  between the curly braces in which it was created. This is why they are called local variables or local scope
+
+Therefore,when you use a variable in a seperate function, it cannot be directly used in a seperate function. A local variable can be used for all functions nested inside the current function.
+
+This means you can reuse variables in different methods.
+A globally scoped variable is when the variable is that is outside all functions or methods, underneath class program.
+
+A function is a small program that has an input, a process and an output.We define a method with it's signiture. signiturehas a visiabilty, currently always static. A return type which is the data type of the output, it can only ever have 1 or 0 outputs. 
+It has a name that it is called by, it has a parameter list, which defines what it expects, with what data types the parameters have (i.e string, int). We can have as many parameters as we like and there seperated by a comma, we then have the body of the function. which is what it does/calculates. We then have a return type that's not void, we need to return something that is the same type as the return type
+to call a method, we need to use it's name. And we need to provide parameters that match up with the amount asked for in the function. If there a two strings expected, two strings need to be given when the function is called in the main method.
+The first input will always corospond to the first parameterand so on.
+
+Recursive functions are functions that call themselves/
+
+
+
+
+
+
+
