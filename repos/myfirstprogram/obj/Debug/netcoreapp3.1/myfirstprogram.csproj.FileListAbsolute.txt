@@ -1,0 +1,17 @@
+C:\Users\103116463\repos\myfirstprogram\bin\Debug\netcoreapp3.1\myfirstprogram.exe
+C:\Users\103116463\repos\myfirstprogram\bin\Debug\netcoreapp3.1\myfirstprogram.deps.json
+C:\Users\103116463\repos\myfirstprogram\bin\Debug\netcoreapp3.1\myfirstprogram.runtimeconfig.json
+C:\Users\103116463\repos\myfirstprogram\bin\Debug\netcoreapp3.1\myfirstprogram.runtimeconfig.dev.json
+C:\Users\103116463\repos\myfirstprogram\bin\Debug\netcoreapp3.1\myfirstprogram.dll
+C:\Users\103116463\repos\myfirstprogram\bin\Debug\netcoreapp3.1\myfirstprogram.pdb
+C:\Users\103116463\repos\myfirstprogram\obj\Debug\netcoreapp3.1\myfirstprogram.csprojAssemblyReference.cache
+C:\Users\103116463\repos\myfirstprogram\obj\Debug\netcoreapp3.1\myfirstprogram.AssemblyInfoInputs.cache
+C:\Users\103116463\repos\myfirstprogram\obj\Debug\netcoreapp3.1\myfirstprogram.AssemblyInfo.cs
+C:\Users\103116463\repos\myfirstprogram\obj\Debug\netcoreapp3.1\myfirstprogram.dll
+C:\Users\103116463\repos\myfirstprogram\obj\Debug\netcoreapp3.1\myfirstprogram.pdb
+C:\Users\Safit\OneDrive - Swinburne University\repos\myfirstprogram\obj\Debug\netcoreapp3.1\myfirstprogram.csprojAssemblyReference.cache
+C:\Users\Safit\OneDrive - Swinburne University\repos\myfirstprogram\obj\Debug\netcoreapp3.1\myfirstprogram.csproj.CoreCompileInputs.cache
+C:\Users\Safit\OneDrive - Swinburne University\repos\myfirstprogram\obj\Debug\netcoreapp3.1\myfirstprogram.AssemblyInfoInputs.cache
+C:\Users\Safit\OneDrive - Swinburne University\repos\myfirstprogram\obj\Debug\netcoreapp3.1\myfirstprogram.AssemblyInfo.cs
+C:\Users\Safit\OneDrive - Swinburne University\repos\myfirstprogram\obj\Debug\netcoreapp3.1\myfirstprogram.dll
+C:\Users\Safit\OneDrive - Swinburne University\repos\myfirstprogram\obj\Debug\netcoreapp3.1\myfirstprogram.pdb

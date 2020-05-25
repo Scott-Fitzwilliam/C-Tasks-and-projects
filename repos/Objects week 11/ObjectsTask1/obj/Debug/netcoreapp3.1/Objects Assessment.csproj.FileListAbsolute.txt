@@ -1,0 +1,11 @@
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\Objects Assessment\bin\Debug\netcoreapp3.1\Objects Assessment.exe
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\Objects Assessment\bin\Debug\netcoreapp3.1\Objects Assessment.deps.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\Objects Assessment\bin\Debug\netcoreapp3.1\Objects Assessment.runtimeconfig.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\Objects Assessment\bin\Debug\netcoreapp3.1\Objects Assessment.runtimeconfig.dev.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\Objects Assessment\bin\Debug\netcoreapp3.1\Objects Assessment.dll
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\Objects Assessment\bin\Debug\netcoreapp3.1\Objects Assessment.pdb
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\Objects Assessment\obj\Debug\netcoreapp3.1\Objects Assessment.csprojAssemblyReference.cache
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\Objects Assessment\obj\Debug\netcoreapp3.1\Objects Assessment.AssemblyInfoInputs.cache
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\Objects Assessment\obj\Debug\netcoreapp3.1\Objects Assessment.AssemblyInfo.cs
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\Objects Assessment\obj\Debug\netcoreapp3.1\Objects Assessment.dll
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\Objects Assessment\obj\Debug\netcoreapp3.1\Objects Assessment.pdb

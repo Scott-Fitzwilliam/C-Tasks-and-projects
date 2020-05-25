@@ -1,0 +1,11 @@
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\ObjectsTask2\bin\Debug\netcoreapp3.1\ObjectsTask2.exe
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\ObjectsTask2\bin\Debug\netcoreapp3.1\ObjectsTask2.deps.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\ObjectsTask2\bin\Debug\netcoreapp3.1\ObjectsTask2.runtimeconfig.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\ObjectsTask2\bin\Debug\netcoreapp3.1\ObjectsTask2.runtimeconfig.dev.json
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\ObjectsTask2\bin\Debug\netcoreapp3.1\ObjectsTask2.dll
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\ObjectsTask2\bin\Debug\netcoreapp3.1\ObjectsTask2.pdb
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\ObjectsTask2\obj\Debug\netcoreapp3.1\ObjectsTask2.csprojAssemblyReference.cache
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\ObjectsTask2\obj\Debug\netcoreapp3.1\ObjectsTask2.AssemblyInfoInputs.cache
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\ObjectsTask2\obj\Debug\netcoreapp3.1\ObjectsTask2.AssemblyInfo.cs
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\ObjectsTask2\obj\Debug\netcoreapp3.1\ObjectsTask2.dll
+E:\EVERYTHING HERE!\Unit guides\2Tuesday's Classes\ICTPRG301-Apply introductory programming techniques\Objects week 11\ObjectsTask2\obj\Debug\netcoreapp3.1\ObjectsTask2.pdb
